@@ -131,23 +131,6 @@ A machine learning system designed to predict the risk of student dropout using 
 
 ---
 
-## 🏥 HealthHub — Coordinated Care Scheduling System
-
-A healthcare management platform designed to simplify appointment scheduling and coordination between patients and healthcare providers.
-
-### Features
-
-- 👨‍⚕️ Doctor and patient management
-- 📅 Appointment scheduling
-- 🔐 Authentication
-- 🗄️ Relational database management
-- 🌐 REST APIs
-- 🖥️ React-based frontend
-
-**Tech:** Java, Spring Boot, Hibernate, MySQL, React.js
-
----
-
 ## 🏨 PackAndGo — Hotel Booking Platform
 
 A full-stack hotel booking application with a scalable backend architecture.
