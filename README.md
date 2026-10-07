@@ -112,25 +112,6 @@ An AI-powered **Retrieval-Augmented Generation (RAG)** application for interacti
 
 ---
 
-## 🎓 Student Dropout Prediction Using Deep Neural Networks
-
-A machine learning system designed to predict the risk of student dropout using academic, demographic and behavioral features.
-
-### Key Features
-
-- 📊 Student dataset preprocessing
-- 🔢 Feature encoding and normalization
-- 🤖 Deep Neural Network classification
-- 📈 Model performance comparison
-- 🌳 Random Forest
-- 📉 Logistic Regression
-- 🧮 Naive Bayes
-- 🧠 TensorFlow/Keras DNN
-
-**Tech:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras
-
----
-
 ## 🏨 PackAndGo — Hotel Booking Platform
 
 A full-stack hotel booking application with a scalable backend architecture.
@@ -166,19 +147,6 @@ A real-time video conferencing platform built using WebRTC and Socket.io for low
 
 **Tech:** React.js, Node.js, Express.js, WebRTC, Socket.io, MongoDB, Material UI
 
-# 🧠 Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- REST API Design
-- MVC Architecture
-- Microservices Concepts
-- System Design
-- Software Engineering
-
 ---
 
 ## 🎵 Music Playlist Generator
@@ -195,6 +163,40 @@ A content-based music recommendation system that analyzes audio characteristics 
 - 📈 Optimized audio-processing pipeline
 
 **Tech:** Python, Flask, Librosa, Pandas, Recommendation Systems
+
+---
+
+## 🎓 Student Dropout Prediction Using Deep Neural Networks
+
+A machine learning system designed to predict the risk of student dropout using academic, demographic and behavioral features.
+
+### Key Features
+
+- 📊 Student dataset preprocessing
+- 🔢 Feature encoding and normalization
+- 🤖 Deep Neural Network classification
+- 📈 Model performance comparison
+- 🌳 Random Forest
+- 📉 Logistic Regression
+- 🧮 Naive Bayes
+- 🧠 TensorFlow/Keras DNN
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+
+---
+
+# 🧠 Core Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- REST API Design
+- MVC Architecture
+- Microservices Concepts
+- System Design
+- Software Engineering
 
 # 📈 What I'm Currently Learning
 
