@@ -149,6 +149,23 @@ A full-stack hotel booking application with a scalable backend architecture.
 
 ---
 
+## 🎥 Connectify — Real-Time Video Conferencing Platform
+
+A real-time video conferencing platform built using WebRTC and Socket.io for low-latency communication and real-time participant synchronization.
+
+### Key Features
+
+- 🎥 Real-time peer-to-peer audio and video communication
+- 🔌 WebRTC-based P2P streaming
+- ⚡ Socket.io signaling server
+- 👥 Room and participant management
+- 🔐 JWT-based authentication
+- 🔒 Bcrypt password hashing
+- 🔄 Real-time state synchronization
+- 🎨 Responsive React.js interface
+
+**Tech:** React.js, Node.js, Express.js, WebRTC, Socket.io, MongoDB, Material UI
+
 # 🧠 Core Computer Science
 
 - Data Structures & Algorithms
@@ -163,6 +180,21 @@ A full-stack hotel booking application with a scalable backend architecture.
 - Software Engineering
 
 ---
+
+## 🎵 Music Playlist Generator
+
+A content-based music recommendation system that analyzes audio characteristics to generate personalized playlists.
+
+### Key Features
+
+- 🎧 Content-based music recommendation
+- 🔊 Audio feature extraction using Librosa
+- 📊 MFCC, Chroma and Spectral Contrast analysis
+- 🎼 Processing of 10K+ audio tracks
+- ⚡ Flask REST APIs for recommendations
+- 📈 Optimized audio-processing pipeline
+
+**Tech:** Python, Flask, Librosa, Pandas, Recommendation Systems
 
 # 📈 What I'm Currently Learning
 
